@@ -8,30 +8,30 @@ Below is an overview of the tasks included in this repository:
 
 ---
 
-## [Task 1: Exploring and Visualizing the Iris Dataset](Task_1_README.md)
+## [Task 1: Exploring and Visualizing the Iris Dataset](https://github.com/mominamalik694-crypto/DevelopersHub-Coporation-Data-Science-Analytics-Intern-/tree/main/Task-1-Iris-Exploration)
 **Objective:** Explore the famous Iris dataset, understand its structure, and create visualizations to identify patterns, distributions, and outliers using Python.
 - **Key Skills:** Exploratory Data Analysis (EDA), Data Visualization (Matplotlib, Seaborn).
 - **Highlights:** Identified clear separations between species (Setosa, Virginica, Versicolor) using scatter plots, histograms, and box plots, demonstrating the dataset's suitability for classification.
 
-## [Task 2: Credit Risk Prediction](Task_2_README.md)
+## [Task 2: Credit Risk Prediction](https://github.com/mominamalik694-crypto/DevelopersHub-Coporation-Data-Science-Analytics-Intern-/tree/main/Task-2-Credit-Risk-Prediction)
 **Objective:** Predict whether a loan applicant is likely to default on a loan using machine learning techniques.
 - **Dataset:** Loan Prediction Dataset
 - **Key Skills:** Data Cleaning, Handling Missing Values, Feature Encoding, Machine Learning Classification (Logistic Regression), Model Evaluation.
 - **Highlights:** Performed extensive data cleaning, handled missing values by imputing medians/modes, and successfully built a Logistic Regression model to classify loan approval status.
 
-## [Task 3: Customer Churn Prediction (Bank Customers)](Task_3_README.md)
+## [Task 3: Customer Churn Prediction (Bank Customers)](https://github.com/mominamalik694-crypto/DevelopersHub-Coporation-Data-Science-Analytics-Intern-/tree/main/Task-3-Customer-Churn-Prediction)
 **Objective:** Predict whether a bank customer is likely to leave (churn) based on their demographic and account information.
 - **Dataset:** Churn Modelling Dataset
 - **Key Skills:** Categorical Encoding, Classification Modeling (Random Forest), Feature Importance Analysis.
 - **Highlights:** Trained a Random Forest Classifier to predict customer churn and visualized feature importances to determine the most significant factors driving customer exits.
 
-## [Task 4: Predicting Insurance Claim Amounts](Task_4_README.md)
+## [Task 4: Predicting Insurance Claim Amounts](https://github.com/mominamalik694-crypto/DevelopersHub-Coporation-Data-Science-Analytics-Intern-/tree/main/Task-4-Insurance-Cost-Prediction)
 **Objective:** Estimate medical insurance charges based on personal data such as age, BMI, smoking status, and other factors.
 - **Dataset:** Medical Cost Personal Dataset
 - **Key Skills:** Regression Modeling (Linear Regression), Feature Analysis, Model Evaluation (MAE, RMSE).
 - **Highlights:** Revealed strong impacts of smoking status, age, and BMI on medical costs, and evaluated the linear regression model's predictive performance using MAE and RMSE.
 
-## [Task 5: Personal Loan Acceptance Prediction](Task_5_README.md)
+## [Task 5: Personal Loan Acceptance Prediction](https://github.com/mominamalik694-crypto/DevelopersHub-Coporation-Data-Science-Analytics-Intern-/tree/main/Task-5-EDA)
 **Objective:** Predict which customers are likely to accept a personal loan offer based on their demographic and financial information.
 - **Dataset:** Bank Marketing Dataset
 - **Key Skills:** Data Exploration, Classification Modeling (Logistic Regression), Business Insight Extraction.
